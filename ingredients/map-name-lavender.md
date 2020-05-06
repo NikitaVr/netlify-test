@@ -1,3 +1,4 @@
 ---
 name: lavender
+type: cooking
 ---
